@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\projWFA\projWFA\bin\Debug\projWFA.exe.config
+C:\Users\aluno\source\repos\projWFA\projWFA\bin\Debug\projWFA.exe
+C:\Users\aluno\source\repos\projWFA\projWFA\bin\Debug\projWFA.pdb
+C:\Users\aluno\source\repos\projWFA\projWFA\obj\Debug\projWFA.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projWFA\projWFA\obj\Debug\projWFA.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projWFA\projWFA\obj\Debug\projWFA.Form1.resources
+C:\Users\aluno\source\repos\projWFA\projWFA\obj\Debug\projWFA.Properties.Resources.resources
+C:\Users\aluno\source\repos\projWFA\projWFA\obj\Debug\projWFA.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\projWFA\projWFA\obj\Debug\projWFA.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projWFA\projWFA\obj\Debug\projWFA.exe
+C:\Users\aluno\source\repos\projWFA\projWFA\obj\Debug\projWFA.pdb
